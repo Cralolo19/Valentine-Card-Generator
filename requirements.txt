@@ -1,0 +1,4 @@
+## Requirements
+- Jupyter Notebook (or Python 3.x)
+- Libraries (matplotlib.path_effects, matplotlib.pyplot, numpy)
+- Sheet style (sty.mplstyle)
